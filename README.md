@@ -21,5 +21,8 @@ $ py -m pip install beautifulsoup4
 
 Clone this project to your repo, change the variables in main.py and you should be ready to go!
 
+# Rank the results
+We also made a google sheet to give each apartment a score. You can find the template to this sheet with example data [here](https://docs.google.com/spreadsheets/d/1M--u27KMpi3oJuI7_zLkbxMeG8rvfr79zhKL5j1zNgM/edit?usp=sharing)
+
 # Todos
  * Add more housing websites!
